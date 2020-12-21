@@ -11,5 +11,10 @@
     "url": "yelp"
   },
   "author": "rampok",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8"
+  }
 }

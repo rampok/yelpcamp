@@ -1,1 +1,0 @@
-MongoDB:	yelp-user	kI54fNXTmXTx0Okn	mongodb+srv://yelp-user:kI54fNXTmXTx0Okn@cluster0.p7vjv.mongodb.net/<dbname>?retryWrites=true&w=majority

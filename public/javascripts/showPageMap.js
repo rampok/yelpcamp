@@ -8,6 +8,8 @@ center: campLocation,
 zoom: 8
 });
 
+map.addControl(new mapboxgl.NavigationControl());
+
 const marker = new mapboxgl.Marker()
     .setLngLat(campLocation)
     .setPopup(

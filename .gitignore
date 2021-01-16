@@ -4,3 +4,5 @@ node_modules
 seeds
 start.txt
 yelp.code-workspace
+Deployment
+Deployment/creds.txt
